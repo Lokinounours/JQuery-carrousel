@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 60%;
+    margin: auto;
+}
+
+.imgCentral {
+    margin: 30px;
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+    background-image: url(france1.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+i {
+    font-size: 50px;
+}
